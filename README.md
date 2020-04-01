@@ -1,2 +1,2 @@
-# ivan.frleta98-gmail.com
+# SHRIFT
 Interrupt bar
